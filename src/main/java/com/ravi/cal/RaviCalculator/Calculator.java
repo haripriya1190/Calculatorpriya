@@ -1,4 +1,5 @@
-package com.ravi.cal.RaviCalculator;
+
+}ckage com.ravi.cal.RaviCalculator;
 
 import java.util.Scanner;
 
@@ -37,9 +38,8 @@ public class Calculator  {
 		
 		return first*second;
 	}
-}
-
-public static void main(String[] args) {
+	
+	public static void main(String[] args) {
 		
 		Calculator cc = new Calculator();
 		
@@ -61,3 +61,4 @@ public static void main(String[] args) {
 	 
 
 }
+
